@@ -296,4 +296,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Patents API to power prior-art search, IP research, and patent landscaping with reliable, structured results.*
 
-Last Updated: 2026.07.06
+Last Updated: 2026.07.08
