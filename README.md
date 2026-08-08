@@ -60,7 +60,7 @@ uv run python google-patents-api-example.py
 
 **Full details on demand.** Set `include_details` to pull claims, citations, patent family, and CPC for each result, or pass a `patent_id` to fetch one patent directly.
 
-**Prior-art friendly.** Set `scholar` to fold in matching Google Scholar literature alongside patents.
+**Prior-art friendly.** Set `scholar` to fold in matching [Google Scholar](https://apify.com/johnvc/google-scholar-api?fpr=9n7kx3) literature alongside patents.
 
 **Predictable, pay-per-use pricing.** Billing is per page (and per details lookup), with no subscription.
 
